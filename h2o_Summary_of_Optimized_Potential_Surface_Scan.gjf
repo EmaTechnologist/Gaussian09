@@ -1,0 +1,12 @@
+# mp2/6-311g(d,p) opt=z-matrix
+
+Summary of Optimized Potential Surface Scan
+
+0 1
+x1
+o2 1 1.0 
+h3 2 1.0 1 104.5
+h4 2 1.0 3 104.5 1 d
+
+d = 180.0 s 3 60.0
+
