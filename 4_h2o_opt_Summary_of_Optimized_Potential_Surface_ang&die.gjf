@@ -1,0 +1,17 @@
+# mp2(sdtq) opt=z-matrix
+
+Summary of Optimized Potential Surface Scan
+1 Hartree = 627509 kcal mol*-1
+
+0 1
+x1
+o2 1 r1 
+h3 2 r2 1 a
+h4 2 r3 3 a 1 d
+
+r1 = 1.0
+r2 = 1.0
+r3 = 1.0
+a = 104.5 s 5 7.1
+d = 0.0 s 5 36.0
+
